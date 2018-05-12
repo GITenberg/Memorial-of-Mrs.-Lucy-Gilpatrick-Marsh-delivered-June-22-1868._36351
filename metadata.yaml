@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '38224'
     url: http://www.gutenberg.org/2009/agents/38224
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36351#Memorial-of-Mrs.-Lucy-Gilpatrick-Marsh-delivered-June-22-1868.
 gutenberg_issued: '2011-06-08'
 gutenberg_type: Text
 identifiers:
